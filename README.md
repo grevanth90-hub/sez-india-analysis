@@ -19,3 +19,10 @@ Tools used:
 - NumPy
 - Statsmodels
 - GIS/spatial workflows
+Methods implemented include:
+- Spatial Difference-in-Differences
+- Event Study Estimation
+- District-Specific Time Trends
+- Callaway & Sant’Anna staggered DiD estimators
+- Sun & Abraham event-study corrections
+- Spatial environmental outcome analysis using PM2.5 and nighttime lights datasets
