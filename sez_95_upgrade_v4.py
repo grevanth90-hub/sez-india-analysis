@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # ============================================================
-# SEZ 9.5/10 UPGRADE V4 (FIXED EVENT STUDY)
+# SEZ  UPGRADE V4 (FIXED EVENT STUDY)
 # ============================================================
 
 import warnings
